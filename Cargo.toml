@@ -1,0 +1,9 @@
+[package]
+name = "rsfx"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+evdev = "0.13"
+rodio = "0.20"
+rand = "0.9"
